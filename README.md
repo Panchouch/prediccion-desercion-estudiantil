@@ -59,7 +59,5 @@ proyecto-desercion-estudiantil/
 └── docs/
     ├── 01_problematicas_objetivos_kpis.md
     ├── 02_dataset_pertinencia.md
-
-
     ├── 03_data_quality_report.md
     └── 04_data_flow.md
