@@ -50,7 +50,6 @@ Este conjunto de datos contiene 4424 registros e incluye variables relacionadas 
 proyecto-desercion-estudiantil/
 │
 ├── README.md
-├── requirements.txt
 ├── data/
 │   ├── raw/
 │   ├── curated/
