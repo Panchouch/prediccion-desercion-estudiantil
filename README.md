@@ -57,7 +57,9 @@ proyecto-desercion-estudiantil/
 │   └── eda_preprocesamiento.ipynb
 │
 └── docs/
-    ├── 01_problematicas_objetivos_kpis.md
-    ├── 02_dataset_pertinencia.md
-    ├── 03_data_quality_report.md
-    └── 04_flujo_datos.md
+    ├── 1_problematicas_objetivos_kpis.md
+    ├── 2_dataset_pertinencia.md
+    ├── 3_eda.md
+    ├── 4_preprocesamiento.md
+    ├── 5.1_data_quality_report.md
+    └── 5.2_flujo_datos.md
