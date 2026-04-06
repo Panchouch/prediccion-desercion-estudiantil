@@ -26,6 +26,24 @@ Este conjunto de datos contiene 4424 registros e incluye variables relacionadas 
 - desempeño en primer y segundo semestre;
 - estado final del estudiante (`Dropout`, `Enrolled`, `Graduate`).
 
+## Ejecución
+1. Abrir el notebook en Google Colab o Jupyter Notebook.
+2. Instalar las dependencias necesarias.
+3. Ejecutar las celdas en orden.
+
+## Dependencias
+- Python 3
+- pandas
+- numpy
+- matplotlib
+- seaborn
+- scikit-learn
+- ucimlrepo
+
+## Autores
+- Francisco Espinoza
+- Felipe Chavez
+
 ## 5. Estructura del repositorio
 
 ```text
@@ -45,22 +63,6 @@ proyecto-desercion-estudiantil/
     ├── 01_problematicas_objetivos_kpis.md
     ├── 02_dataset_pertinencia.md
 
-## Ejecución
-1. Abrir el notebook en Google Colab o Jupyter Notebook.
-2. Instalar las dependencias necesarias.
-3. Ejecutar las celdas en orden.
 
-## Dependencias
-- Python 3
-- pandas
-- numpy
-- matplotlib
-- seaborn
-- scikit-learn
-- ucimlrepo
-
-## Autores
-- Francisco Espinoza
-- Felipe Chavez
     ├── 03_data_quality_report.md
     └── 04_data_flow.md
