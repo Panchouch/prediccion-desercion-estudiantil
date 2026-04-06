@@ -51,9 +51,7 @@ proyecto-desercion-estudiantil/
 │
 ├── README.md
 ├── data/
-│   ├── raw/
-│   ├── curated/
-│   └── processed/
+│   ├── data.csv
 │
 ├── notebooks/
 │   └── eda_preprocesamiento.ipynb
